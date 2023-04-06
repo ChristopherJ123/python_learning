@@ -21,3 +21,4 @@ name()
 age()
 bloodtype()
 print(x)
+
